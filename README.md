@@ -1,3 +1,5 @@
+![GitHub stars](https://img.shields.io/github/stars/MEStackCodes/MEStackCodes?style=square)
+![GitHub followers](https://img.shields.io/github/followers/MEStackCodes?style=square)
 ## ME Stack Codes 🚀
 I'm a Fullstack Developer who builds libraries, plugins, tools, and add-ons to simplify the integration of web services and cloud platforms.
 <!--
