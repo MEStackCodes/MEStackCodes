@@ -1,7 +1,10 @@
 ![GitHub stars](https://img.shields.io/github/stars/MEStackCodes/MEStackCodes?style=flat-square&labelColor=black&color=b60926)
 ![GitHub followers](https://img.shields.io/github/followers/MEStackCodes?style=flat-square&labelColor=black&color=b60926)
-## ME Stack Codes 🚀
-I'm a Fullstack Developer who builds libraries, plugins, scripts and add-ons to simplify the integration of web services and cloud platforms.
+## ME Stack Codes⚡💻
+I'm a Fullstack Developer who builds tools, libraries, plugins, scripts and add-ons to simplify the integration of web services and cloud platforms.
+<br><br>
+>*Hidden from the spotlight, countless individuals work tirelessly to shape the incredible world of technology!.*
+
 <!--
 `Support the developers who make these tools possible! Donate today to help us create even more amazing projects.`
 
