@@ -1,5 +1,5 @@
-![GitHub stars](https://img.shields.io/github/stars/MEStackCodes/MEStackCodes?style=flat-square&labelColor=black&color=b60926)
-![GitHub followers](https://img.shields.io/github/followers/MEStackCodes?style=flat-square&labelColor=black&color=b60926)
+[![GitHub stars](https://img.shields.io/github/stars/MEStackCodes/MEStackCodes?style=flat-square&labelColor=black&color=b60926)](https://github.com/MEStackCodes?tab=stars)
+[![GitHub followers](https://img.shields.io/github/followers/MEStackCodes?style=flat-square&labelColor=black&color=b60926)](https://github.com/MEStackCodes?tab=followers)
 ## ME Stack Codes⚡💻 </>
 I'm a Fullstack Developer who builds tools, libraries, plugins, scripts and add-ons to simplify the integration of web services and cloud platforms.
 <br><br>
