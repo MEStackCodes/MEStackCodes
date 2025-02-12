@@ -1,6 +1,7 @@
 
 ## ME Stack Codes⚡💻 </>
-I'm a Fullstack Developer who builds tools, libraries, plugins, scripts and add-ons to simplify the integration of web services and cloud platforms.
+
+I'm a web & cross-platform developer with a strong foundation in building robust and scalable web applications. My skill set includes developing custom tools, libraries, and plugins to facilitate seamless integration of web services and cloud platforms, leveraging the latest technologies and best practices.
 <br><br>
 >*Hidden from the spotlight, countless individuals work tirelessly to shape the incredible world of technology!.*
 
