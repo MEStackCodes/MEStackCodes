@@ -1,7 +1,9 @@
 
 ## ME Stack Codes⚡💻 </>
 
-I'm a web & cross-platform developer with a strong foundation in building robust and scalable web applications. My skill set includes developing custom tools, libraries, and plugins to facilitate seamless integration of web services and cloud platforms, leveraging the latest technologies and best practices.
+I'm web & cross-platform developer, my expertise extends to the development of custom tools, libraries, and plugins, meticulously designed to enable the seamless integration of web services and cloud platforms. I am adept at leveraging cutting-edge technologies and adhering to industry best practices.
+
+This includes, integrating machine learning models for predictive analytics, natural language processing for enhanced human-computer interaction, and computer vision for advanced data interpretation within web and cross-platform environments.
 <br><br>
 >*Hidden from the spotlight, countless individuals work tirelessly to shape the incredible world of technology!.*
 
