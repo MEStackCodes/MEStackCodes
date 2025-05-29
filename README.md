@@ -1,9 +1,10 @@
 
 ## ME Stack Codes⚡💻 </>
 
-I'm web & cross-platform developer, my expertise extends to the development of custom tools, libraries, and plugins, meticulously designed to enable the seamless integration of web services and cloud platforms. I am adept at leveraging cutting-edge technologies and adhering to industry best practices.
+I'm web & cross-platform developer, my expertise extends to the development of custom tools, libraries, and plugins, meticulously designed to enable the seamless integration of web services and cloud platforms. I am adept at leveraging cutting-edge technologies and adhering to industry best practices. <br>
 
-This includes, integrating machine learning models for predictive analytics, natural language processing for enhanced human-computer interaction, and computer vision for advanced data interpretation within web and cross-platform environments.
+My data engineering skills involve efficiently processing and classifying information across diverse databases. Throughout all my work, I am adept at leveraging cutting-edge technologies and adhering to industry best practices.
+
 <br><br>
 >*Hidden from the spotlight, countless individuals work tirelessly to shape the incredible world of technology!.*
 
